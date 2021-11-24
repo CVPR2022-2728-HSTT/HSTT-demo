@@ -9,7 +9,7 @@ We provide a Docker image for easier reproduction. Please install the following:
 
 Our scripts require the user to have the [docker group membership](https://docs.docker.com/install/linux/linux-postinstall/)
 so that docker commands can be run without sudo.
-We only support Linux with NVIDIA GPUs. We test on Ubuntu 18.04 and V100 cards.
+We only support Linux with NVIDIA GPUs. We test on Ubuntu 18.04 and NVIDIA TITAN RTX.
 We use mixed-precision training hence GPUs with Tensor Cores are recommended.
 
 
