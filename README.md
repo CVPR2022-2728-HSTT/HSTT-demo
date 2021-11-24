@@ -26,13 +26,13 @@ We use mixed-precision training hence GPUs with Tensor Cores are recommended.
 
 2. Download test data and pretrained models.
 
-    Our constructed event graph of the sampled videos can be downloaded from Google Drive:          
+    Our constructed event graphs of the sampled videos can be downloaded from Google Drive:          
     https://drive.google.com/drive/folders/1tQEU86FpNochqEpvSFFvJ3fI5Yza-Bd9?usp=sharing.
     Please put them under the $PATH_TO_STORAGE/video_db.
     
     The sampled QA pairs can be downloaded from Google Drive:
     https://drive.google.com/file/d/1MtEh491RNMXCWdnABa_fC0uiBLoJgfE5/view?usp=sharing.
-    Please put it under the $PATH_TO_STORAGE/txt_db.
+    Please put the file under the $PATH_TO_STORAGE/txt_db.
     
     Our pretrained HSTT model (186MB), can be downloaded from Google Drive:
     https://drive.google.com/file/d/1A_wmjjvEoy1vbbNuLVtBQyVXD_zTp1DY/view?usp=sharing.
